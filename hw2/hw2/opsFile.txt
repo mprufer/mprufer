@@ -1,0 +1,9 @@
+insertline:1
+mathline:1:min
+deleteline:6
+mathline:1:count
+mathline:1:count
+mathline:1:max
+mathline:3:mean
+insertline:6
+mathline:6:count
