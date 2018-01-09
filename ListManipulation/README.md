@@ -12,7 +12,6 @@ Operations:
 >deleteline: will delete the indicated line; other lines will be moved up
 Input text files: opsFiles.txt; test_1_opts.txt
 
-Note: more operations will be added over time
-
-Run instructions: 
+<b>Language:</b> C++<br>
+<b>Compiling instructions: </b>
 -Arugments passed to main: "input='input text file';operations='ops text file'"
