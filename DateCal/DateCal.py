@@ -53,7 +53,7 @@ class Date:
             except ValueError:
                 print("Please enter a valid input")
                 continue
-            if (year < 1582):
+            if (year < 0):
                 continue
             else:
                 break
