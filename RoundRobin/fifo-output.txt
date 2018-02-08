@@ -1,0 +1,31 @@
+0	waiting
+1	Olivia	3	makeup
+2	Olivia	3	makeup
+3	Olivia	3	completed
+4	Peter	4	makeup
+5	Peter	4	makeup
+6	Peter	4	makeup
+7	Peter	4	completed
+8	waiting
+9	Walter	5	makeup
+10	Walter	5	makeup
+11	Walter	5	makeup
+12	Walter	5	makeup
+13	Walter	5	completed
+14	Astrid	2	makeup
+15	Astrid	2	completed
+16	relax
+17	relax
+18	Lincoln	3	makeup
+19	Lincoln	3	makeup
+20	Lincoln	3	completed
+21	Charlie	1	completed
+22	Phillip	2	makeup
+23	Phillip	2	completed
+24	Nina	7	makeup
+25	Nina	7	makeup
+26	Nina	7	makeup
+27	Nina	7	makeup
+28	Nina	7	makeup
+29	Nina	7	makeup
+30	Nina	7	completed
