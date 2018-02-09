@@ -2,7 +2,7 @@ Make-up scheduling simluator
 ------------------------------
 <b>Language</b>: C++
 
-<b>Desc</b>
+<b>Desc</b><br>
 This program simluates the application of make-up to actors given a certain scheduling rule. Each actor that arrives has an arrival time
 of when they arrive at the make-up station and the duration which is the number of rounds it will take to complete make-up application on the actor. 
 
@@ -14,7 +14,7 @@ can only enter the queue once there is room for them (ie an actor has completed 
 
 The make-up artist has an additional rule where after 4 actors have completed make-up, they must take a break for two rounds before starting make-up application again. 
 
-<b>Instruct</b>
+<b>Instruct</b><br>
 To run the program, an argument in the format of: file='filename here';qsize='indicate queue size here';schedule='indicate either roundrobin or fifo here'
 must be passed. 
 If the schedule is roundrobin, an additional argument at the end indicating the quantum size must also be in the argument: quantum='# here'
