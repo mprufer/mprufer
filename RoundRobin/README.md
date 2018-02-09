@@ -21,9 +21,9 @@ If the schedule is roundrobin, an additional argument at the end indicating the 
 
 The file passed to the program must list the actors line by line. Each line must indicate (parsed by tabs) the arrival time and the duration time. The list does not need to be sorted.
 
-<b>Files</b>
-upfront: houses the main argument
-Fileops: Parses the argument passed, reads the file, fills the queue, passes all arguments to appropriate functions, and then passes control to the appropriate file (either roundrobin or fifo)
-Actors: Creates an object for each actor that enters the queue
-RoundRobin: Simluates the make-up application scheduling if a round robin schedule is selected
-Fifo: Simluates the make-up application scheduling if fifo is selected.
+<b>Files</b><br>
+upfront: houses the main argument<br>
+Fileops: Parses the argument passed, reads the file, fills the queue, passes all arguments to appropriate functions, and then passes control to the appropriate file (either roundrobin or fifo)<br>
+Actors: Creates an object for each actor that enters the queue<br>
+RoundRobin: Simluates the make-up application scheduling if a round robin schedule is selected<br>
+Fifo: Simluates the make-up application scheduling if fifo is selected.<br>
