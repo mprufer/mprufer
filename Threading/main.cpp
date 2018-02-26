@@ -32,15 +32,14 @@ void enterbridge(int weight);
 void leavebridge(int weight);
 
 int main(int argc, const char * argv[]) {
-    cout << "Hello" << endl;
     pthread_mutex_init(&mylock, NULL);
     pthread_cond_init(&ok, NULL);
     string line = "";
     ifstream ofile;
-    string myung = "";
-    string gyu = "";
-    string namu = "";
-    string ifnt = "";
+    string arg1 = "";
+    string arg2 = "";
+    string arg3 = "";
+    string arg4 = "";
     int count = 0;
     maxweight = stoi(argv[1]);
     
@@ -55,11 +54,11 @@ int main(int argc, const char * argv[]) {
     //Does not need to be commented out in xcode
     while (getline(cin, line)){
         stringstream ss(line);
-        ss >> myung >> gyu >> namu >> ifnt;
-        acar.license = myung;
-        acar.prevarrive = stoi(gyu);
-        acar.totalweight = stoi(namu);
-        acar.crossecs = stoi(ifnt);
+        ss >> arg1 >> arg2 >> arg3 >> arg4;
+        acar.license = arg1;
+        acar.prevarrive = stoi(arg2);
+        acar.totalweight = stoi(arg3);
+        acar.crossecs = stoi(arg4);
         crossing[count] = acar;
         count++;
     }
