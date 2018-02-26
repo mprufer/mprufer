@@ -1,8 +1,3 @@
-//Minnah Prufer
-//COSC 3360
-//Spring 2017
-//Assignment 3
-
 //Please use command in UNIX: g++ -std=c++11 -pthread *.cpp
 
 #include <iostream>
