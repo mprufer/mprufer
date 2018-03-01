@@ -7,6 +7,6 @@
 <br> Image Processing
 <br> Memory management via linked lists
 
-<br> <b>Languages demonstrated:</b>
+<br> <b>Languages & Libraries demonstrated:</b>
 <br> C++
 <br> Python
