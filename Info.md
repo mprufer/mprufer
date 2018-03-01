@@ -1,7 +1,7 @@
 # Minnah Prufer
 Personal projects and technical resume. <br>
 
-<br>Projects committed demonstrate:</b>
+<br><b>Projects committed demonstrate:</b>
 <br> Multi-threading
 <br> Object-Orientation
 <br> Image Processing
